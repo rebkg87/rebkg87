@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 
 # 💫 About Me:
 - 👯 I’m looking to collaborate on innovative tech projects and exciting startups.

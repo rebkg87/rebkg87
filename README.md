@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 - 👯 I’m looking to collaborate on innovative tech projects and exciting startups.
-- 🎨🖥 I mix design and development in my daily work — freelance fullstack dev, UX/UI enthusiast, and branding lover.
+- 🎨🖥 I mix design and development in my daily work - freelance fullstack dev, UX/UI enthusiast, and branding lover.
 - 💬 Ask me about graphic design techniques or creating visually stunning user interfaces.
 - ⚡ Fun fact: Besides coding, I'm also passionate about graphic design and love creating visually compelling artwork.
 
